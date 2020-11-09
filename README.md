@@ -1,4 +1,4 @@
-# FreeCAD stuf
+# FreeCAD stuff
 
 [![Apache licensed](https://img.shields.io/badge/license-Apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 
